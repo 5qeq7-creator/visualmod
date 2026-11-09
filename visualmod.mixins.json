@@ -1,0 +1,22 @@
+{
+  "required": true,
+  "package": "com.example.visual.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "FogMixin",
+    "SkyMixin",
+    "ParticleMixin",
+    "HandMixin",
+    "GlintMixin",
+    "PlayerScaleMixin",
+    "EntityCullMixin",
+    "TimeMixin",
+    "ArmorTintMixin",
+    "WeatherPrecipMixin",
+    "RainGradientMixin",
+    "GammaMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
